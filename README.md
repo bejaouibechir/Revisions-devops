@@ -1,4 +1,4 @@
-# DevOps — Révisions & Exercices Pratiques
+# DevOps — Révisions
 
 Ce dépôt regroupe une série de **révisions pratiques DevOps** basées sur les notions, outils et ateliers abordés dans mon dépôt principal :
 
